@@ -1,3 +1,13 @@
+This project is made in React JS.
+
+The idea behind the project is to dynamiclly make burger orders with the ingredients the customer wants to get.
+
+On the first page, u can see the building page where u can select the ammount of each ingredient, and than u can click order, where u get redirected to a contact form.
+
+Once u submit the contact form, the data is sent to the firebase database, where it's kept. On the Orders page, you can see the orders which are at the same time kept on the back-end. 
+
+Still a lot of functionality can be imported, not totally done.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
