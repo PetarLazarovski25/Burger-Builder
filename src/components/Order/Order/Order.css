@@ -1,0 +1,36 @@
+.Order {
+  width: 80%;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 3px #ccc;
+  padding: 10px;
+  margin: 10px auto;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.Ingrediant {
+  border: 1px solid #703b09;
+  margin: 0 5px;
+  border-radius: 5px;
+  padding: 5px;
+  text-transform: capitalize;
+  color: black;
+  background-color: coral;
+}
+
+.Btn {
+  position: absolute;
+  right: 50px;
+  top: 45px;
+  background-color: coral;
+  border-radius: 6px;
+  width: auto;
+  padding: 2px 3px;
+  box-shadow: 0 2px 3px #ccc;
+  box-sizing: border-box;
+}
+
+.Btn:hover {
+  background-color: #703b09;
+  color: white;
+}
